@@ -8,6 +8,7 @@ if (!empty($_POST["upload"])) {
     }
 }
 ?>
+Code is run by hitesh
 <html>
     <head>
         <title>Upload and Crop Image using PHP and jQuery</title>
